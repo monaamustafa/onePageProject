@@ -2,6 +2,6 @@
 https://monaamustafa.github.io/onePageProject/
 
 
-#resoures
+Resoures:
 https://github.com/alvarotrigo/fullPage.js#auto-playpause-embedded-media
 
