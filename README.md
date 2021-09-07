@@ -2,8 +2,9 @@
 https://monaamustafa.github.io/onePageProject/
 
 
-Resoures:
+##Resoures
 https://github.com/alvarotrigo/fullPage.js#auto-playpause-embedded-media
 
-photos:https://unsplash.com/
+##photos:
+https://unsplash.com/
 
